@@ -5,8 +5,10 @@ A little app with Angular, the purpose its learn.
 
 #### You need install first node.js
 
-#### sudo apt install npm
+`sudo apt install npm`
 
-#### sudo apt install ng-common
+`sudo apt install ng-common`
 
-#### sudo npm install -g angular-cli
+`sudo npm install -g angular-cli`
+
+`ng serve`
