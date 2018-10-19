@@ -11,4 +11,8 @@ A little app with Angular, the purpose its learn.
 
 `sudo npm install -g angular-cli`
 
+## Run:
+
+`npm install`
+
 `ng serve`
